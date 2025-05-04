@@ -11,3 +11,7 @@
 Создание тест-кейсов на основании проверок из чек-листа для регистрации, логина и каталога
 
 [Ссылка на ПЗ 3.30](https://app.qase.io/project/G10?author=332&previewMode=side&suite=44&tab=)
+
+Тестовый набор для тестирования формы регистрации, авторизации и каталога продуктов, созданный с помощью программы Qase
+
+[Ссылка на PDF](https://drive.google.com/file/d/1DUQssCZr1IKkZP8_ujd0IvW1Iwa2eonK/view?usp=sharing)
