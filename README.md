@@ -14,4 +14,4 @@
 
 Тестовый набор для тестирования формы регистрации, авторизации и каталога продуктов, созданный с помощью программы Qase
 
-[Ссылка на PDF](https://drive.google.com/file/d/1DUQssCZr1IKkZP8_ujd0IvW1Iwa2eonK/view?usp=sharing)
+[Ссылка на PDF](https://drive.google.com/file/d/1C9gyAqMvSsAtUMgt7qgRk6KK9Re4Dk2V/view?usp=drive_link)
