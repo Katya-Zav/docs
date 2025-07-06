@@ -2,26 +2,26 @@
 
 ### ПРАКТИЧЕСКОЕ ЗАДАНИЕ 3.20
 
-Создание чек-листа для тестирования регистрации, логина и каталога
+Создан чек-лист для тестирования модулей "Регистрация", "Авторизация" и "Каталог продуктов" в интернет-магазине https://qa.demoshopping.ru
 
-[Ссылка на ПЗ 3.20](https://docs.google.com/spreadsheets/d/1mnJXMMfSCcGkc9PMEQQ9zd89jvSbrbXiK6TEjCB6jyc/edit?usp=drive_link)
+[Ссылка на чек-лист](https://docs.google.com/spreadsheets/d/1mnJXMMfSCcGkc9PMEQQ9zd89jvSbrbXiK6TEjCB6jyc/edit?usp=drive_link)
+
+---
 
 ### ПРАКТИЧЕСКОЕ ЗАДАНИЕ 3.25
 
-Создание тест-кейсов на основании проверок из чек-листа для регистрации, логина и каталога
+Созданы тест-кейсы для тестирования модулей "Регистрация", "Авторизация" и "Каталог продуктов" в интернет-магазине https://qa.demoshopping.ru, созданный с помощью программы Qase
 
-[Ссылка на ПЗ 3.25](https://app.qase.io/project/G10?author=332&previewMode=side&suite=44&tab=)
+[Ссылка на набор тест-кейсов](https://drive.google.com/file/d/1C9gyAqMvSsAtUMgt7qgRk6KK9Re4Dk2V/view?usp=drive_link)
 
-Тестовый набор для тестирования формы регистрации, авторизации и каталога продуктов, созданный с помощью программы Qase
-
-[Ссылка на документ PDF](https://drive.google.com/file/d/1C9gyAqMvSsAtUMgt7qgRk6KK9Re4Dk2V/view?usp=drive_link)
+---
 
 ### ПРАКТИЧЕСКОЕ ЗАДАНИЕ 3.30
 
-Создание отчетов о дефекте для регистрации, логина и каталога в Youtrack
+Созданы баг-репорты в системе Youtrack, найденых при тестировании модулей "Регистрация", "Авторизация" и "Каталог продуктов" в интернет-магазине https://qa.demoshopping.ru 
 
-[Ссылка на документ XLSX](https://docs.google.com/spreadsheets/d/1ah2-4qPaVXcxNfJcl8XVbkiSTCGHvmtv/edit?usp=sharing&ouid=110201890590256679017&rtpof=true&sd=true)
+[Ссылка на баг-репорты (XLSX файл)](https://docs.google.com/spreadsheets/d/1ah2-4qPaVXcxNfJcl8XVbkiSTCGHvmtv/edit?usp=sharing&ouid=110201890590256679017&rtpof=true&sd=true)
 
-Отчет о тестовом прогоне набора тест-кейсов из ПЗ 2.25
+Осуществлен тестовый прогон набора тест-кейсов из ПЗ 2.25
 
-[Ссылка на документ PDF](https://drive.google.com/file/d/1VLwJEZJJ5afJNBMeGcDtjBPFKnpDmogx/view?usp=sharing)
+[Ссылка на отчет](https://drive.google.com/file/d/1VLwJEZJJ5afJNBMeGcDtjBPFKnpDmogx/view?usp=sharing)
