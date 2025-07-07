@@ -10,9 +10,9 @@
 
 ### ПРАКТИЧЕСКОЕ ЗАДАНИЕ 3.25
 
-Созданы тест-кейсы для тестирования модулей "Регистрация", "Авторизация" и "Каталог продуктов" в интернет-магазине https://qa.demoshopping.ru, созданный с помощью программы Qase
+Созданы тест-кейсы для тестирования модулей "Регистрация", "Авторизация" и "Каталог продуктов" в интернет-магазине https://qa.demoshopping.ru, созданный в системе Qase
 
-[Ссылка на набор тест-кейсов](https://drive.google.com/file/d/1C9gyAqMvSsAtUMgt7qgRk6KK9Re4Dk2V/view?usp=drive_link)
+[Ссылка на набор тест-кейсов](https://drive.google.com/file/d/1z0md5xKnqzRjMRWiDYPB3fTS039U3Elz/view?usp=drive_link)
 
 ---
 
@@ -20,7 +20,7 @@
 
 Созданы баг-репорты в системе Youtrack, найденых при тестировании модулей "Регистрация", "Авторизация" и "Каталог продуктов" в интернет-магазине https://qa.demoshopping.ru 
 
-[Ссылка на баг-репорты (XLSX файл)](https://docs.google.com/spreadsheets/d/1ah2-4qPaVXcxNfJcl8XVbkiSTCGHvmtv/edit?usp=sharing&ouid=110201890590256679017&rtpof=true&sd=true)
+[Ссылка на баг-репорты (XLSX файл)](https://docs.google.com/spreadsheets/d/1rSzLSCwFkHuwMWXJhVRPwHfY92YXX2ed/edit?usp=sharing&ouid=110201890590256679017&rtpof=true&sd=true)
 
 Осуществлен тестовый прогон набора тест-кейсов из ПЗ 2.25
 
